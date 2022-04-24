@@ -1,6 +1,6 @@
-<img align="right" alt="working" width="300" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif">
+<img align="right" alt="working" width="200" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif">
 <h1 align="center">Hi 👋, I'm Samiha Maisha Jeba</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samihamaishajeba&label=Profile%20views&color=0e75b6&style=flat" alt="samihamaishajeba" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samihamaishajeba&label=Profile%20views&color=0e75b6&style=flat" alt="samihamaishajeba"  /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samihamaishajeba" alt="samihamaishajeba" /></a> </p>
 
