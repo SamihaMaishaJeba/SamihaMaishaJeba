@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,12,19,24&height=220&section=header&text=Samiha%20Maisha%20Jeba&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=220&section=header&text=Samiha%20Maisha%20Jeba&fontSize=55&fontColor=58A6FF&animation=fadeIn&fontAlignY=45&desc=Software%20Engineer%20%7C%20Researcher&descSize=18&descFontColor=c9d1d9&descAlignY=68" width="100%"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=researcher+by+curiosity+%7C+builder+by+passion;turning+coffee+into+code+and+papers+since+2023;NLP+%7C+Transformers+%7C+Full-Stack+%7C+Competitive+Programming;Associate+Software+Engineer+%7C+Leicester%2C+UK" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=researcher+by+curiosity+%7C+builder+by+passion;turning+coffee+into+code+and+papers+since+2020;NLP+%7C+Transformers+%7C+Full-Stack+%7C+Competitive+Programming;Microsoft+Student+Ambassador+%7C+Leicester%2C+UK" />
 
 </div>
 
