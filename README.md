@@ -97,7 +97,8 @@ mentoring  → the next gen of girl coders
 ### 🤝 find me
 
 <div align="center">
-
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=58A6FF)](https://portfolio-samihamaishajebas-projects.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://linkedin.com/in/samiha-maisha-jeba-424176205/)
 [![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=58A6FF)](https://twitter.com/jebamaisha)
 [![Google Scholar](https://img.shields.io/badge/Scholar-0d1117?style=for-the-badge&logo=googlescholar&logoColor=58A6FF)](https://scholar.google.com)
